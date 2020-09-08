@@ -1,0 +1,4 @@
+
+1. select name from student where level like '%sr%' group by class
+2. select level,AVG(age) from student group by level  
+3. select level, AVG(age) from student where not like jr group by level

@@ -1,0 +1,2 @@
+1.select parts from goodies group by provider
+2.select name from provider where green parts group by goodies
